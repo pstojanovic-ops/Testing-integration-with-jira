@@ -10,3 +10,4 @@ Smart commit
 Yet another test
 
 + comment in jira
++ comment
